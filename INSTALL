@@ -1,0 +1,9 @@
+Building BitcoinLiza
+
+See doc/readme-qt.rst for instructions on building BitcoinLiza-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinLiza.
+
+See doc/build-*.txt for instructions on building bitcoin-lizad,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinLiza.
